@@ -1,0 +1,30 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "DTRabbitMQ",
+	"Description": "RabbitMQ Client / UE5.1",
+	"Category": "DT",
+	"CreatedBy": "Dexter Wan",
+	"CreatedByURL": "45141961@qq.com",
+	"DocsURL": "https://www.unrealengine.com/marketplace/slug/a1d2f4a845ec4145a6a97a323e22dfc8",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/a1d2f4a845ec4145a6a97a323e22dfc8",
+	"SupportURL": "https://dt.cq.cn/",
+	"EngineVersion": "5.3.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "DTRabbitMQ",
+			"Type": "Runtime",
+			"LoadingPhase": "PostConfigInit",
+			"PlatformAllowList": [
+				"Win64",
+				"Linux",
+				"Android",
+				"Mac",
+				"IOS"
+			]
+		}
+	]
+}
